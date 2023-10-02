@@ -1,12 +1,5 @@
 # data_science_ya
 Yandex_Practicum
-course_data_science
-
-репозиторий проектов "Специалист по Data Science"
-
-
-
-## Пример описания проектов в README.md
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме  "Специалист по Data Science".
 
